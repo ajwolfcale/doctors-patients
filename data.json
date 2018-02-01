@@ -1,0 +1,65 @@
+{
+    "doctors": [
+        {
+            "first_name": "Johan",
+            "last_name": "Killigrew",
+            "speciality": "Pediatrics"
+        
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Killiyou",
+            "speciality": "Euthanasia"
+            
+        },
+        {
+            "first_name": "Aaron",
+            "last_name": "Wolfcale",
+            "speciality": "Lobotomies"
+            
+        }
+    ],
+    "patients": [
+        {
+            "first_name": "Cam",
+            "last_name": "McCallum",
+            "ailment": "iPad Addiction",
+            "doctor_id": 0
+            
+        },
+        {
+            "first_name": "Margot",
+            "last_name": "Svenson",
+            "ailment": "Boredom",
+            "doctor_id": 1
+            
+        },
+        {
+            "first_name": "Jean",
+            "last_name": "Rametta",
+            "ailment": "Crazy",
+            "doctor_id": 2
+        },
+        {
+            "first_name": "John",
+            "last_name": "Mac",
+            "ailment": "iPad Addiction",
+            "doctor_id": 0
+            
+        },
+        {
+            "first_name": "Charlie",
+            "last_name": "Kelley",
+            "ailment": "Boredom",
+            "doctor_id": 1
+            
+        },
+        {
+            "first_name": "Bubba",
+            "last_name": "Jones",
+            "ailment": "Crazy",
+            "doctor_id": 2
+        }
+        
+    ]
+}
