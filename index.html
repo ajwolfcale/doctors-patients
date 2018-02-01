@@ -5,18 +5,18 @@
 </head>
 <body ng-app="docs">
 	
-	<div ng-controller="DocInfoCtrl"></div>
 	<div ng-view></div>
 	
-	{{2+2}}
 
 	<script type="text/javascript" src="lib/node_modules/angular/angular.min.js"></script>
-  <script type="text/javascript" src="lib/node_modules/angular-route/angular-route.min.js"></script>
+    <script type="text/javascript" src="lib/node_modules/angular-route/angular-route.min.js"></script>
 	<script src="lib/node_modules/firebase/firebase.js"></script>
 	<script src="app/app.js"></script>
 	<!-- factories -->
 	<script src="app/factories/DoctorFactory.js"></script>
+	<script src="app/factories/PatientFactory.js"></script>
 	<!-- controllers -->
 	<script src="app/controllers/DocInfoCtrl.js"></script>
+	<script src="app/controllers/PatInfoCtrl.js"></script>
 </body>
 </html>
